@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5HSCONlfyMBMyPMkXREzoakMgWyCFeG7G31x7tyRtFFsEP2/5NmoxaAtRXy4wDw9zLWbTF58ppAFZU0Gp+LSHQ==",
+  "dgSpecHash": "5N2MmyJUyF7jDN+M0Kx+nnBxrneFCDWswSWDh80s7QWe6FKaSkx6T3LsPsVohIpJD7TzqAAQwEFPaiTihE16iQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\simple-api\\simple-api\\simple-api.csproj",
+  "projectFilePath": "C:\\Dev\\simple-api\\simple-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathias.ogard\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mathias.ogard\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
